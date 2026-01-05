@@ -1,0 +1,10 @@
+Q2. What is the purpose of the alt tag in <img /> tag?
+
+answer : purpose of the alt attribute is to show some alternative text when image path is broken and image is not availabel.
+and  Blind people -> screen reading -> image<-x -> alt text.
+
+
+Q3. Mark if the following tags are block-level or inline-level.
+
+answer : block-level tags => <div>, <h1>
+         inline-level tags => <span>, <a>
